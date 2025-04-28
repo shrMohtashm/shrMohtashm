@@ -6,6 +6,28 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Graduate;Creative+Web+Enthusiast;Front-End+Developer%7CReact+Specialist" alt="Typing SVG" /></a>
 </p>
 
+<!-- Social media section -->
+<p align='center'>
+  <a href='mailto:smohtasham65@gmail.com' title='Gmail'>
+    <img width='32' height='32' src='https://img.icons8.com/glyph-neue/64/61dafb/gmail.png' alt='gmail'/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+  <a href='https://www.linkedin.com/in/sahar-mohtasham-917b6125a' title='LinkedIn'>
+    <img width='32' height='32' src='https://img.icons8.com/ios-filled/50/61dafb/linkedin.png' alt='linkedin'/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+  <a href='https://www.instagram.com/sahar_.mohtasham/' title='Instagram'>
+    <img width='32' height='32' src='https://img.icons8.com/ios-filled/50/61dafb/instagram-new--v1.png' alt='instagram'/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+  <a href='https://t.me/SaharMohtashaam'>
+    <img width='32' height='32' src='https://img.icons8.com/ios-filled/50/61dafb/telegram.png' alt='telegram'/>
+  </a>
+</p>
+
 <!--stats-->
 ## <img width='22' height='22' src='https://img.icons8.com/wired/64/61dafb/statistics.png' alt='external-graph-business-and-finance-prettycons-solid-prettycons-2'/> Stats
 <p align=center>
