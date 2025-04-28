@@ -64,3 +64,14 @@
 
 <!--Projects section-->
 ## <img width='22' height='22' src='https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/61dafb/external-project-management-flatart-icons-outline-flatarticons.png' alt='project-management'/> Projects
+<p align='center'>
+    <a href='https://github.com/shrMohtashm/Shopping-website'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shrMohtashm&repo=Shopping-website&theme=react&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/shrMohtashm/e-plantShopping'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shrMohtashm&repo=e-plantShopping&theme=react&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/shrMohtashm/todoListWithRedux'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shrMohtashm&repo=todoListWithRedux&theme=react&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+</p>
