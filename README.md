@@ -33,7 +33,7 @@
 <p align='center'>
     <code><img title='JavaScript' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></code>
     <code><img title='React' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></code>
-    <code><img title='Next.js' width='24px' height='24px' src='https://img.icons8.com/color/48/nextjs.png'></code>
+    <code><img title='Next.js' width='24px' height='24px' src='https://img.icons8.com/61dafb/48/nextjs.png'></code>
     <code><img title='Redux' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'></code>
     <code><img title='HTML5' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></code>
     <code><img title='CSS3' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></code>
