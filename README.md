@@ -9,27 +9,27 @@
 <!-- Social media section -->
 <p align='center'>
   <a href='mailto:smohtasham65@gmail.com' title='Gmail'>
-    <img width='32' height='32' src='https://img.icons8.com/glyph-neue/64/61dafb/gmail.png' alt='gmail'/>
+    <img width='32' height='32' src='https://img.icons8.com/ios/50/61dafb/gmail--v1.png' alt='gmail'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
   <a href='https://www.linkedin.com/in/sahar-mohtasham-917b6125a' title='LinkedIn'>
-    <img width='32' height='32' src='https://img.icons8.com/ios-filled/50/61dafb/linkedin.png' alt='linkedin'/>
+    <img width='32' height='32' src='https://img.icons8.com/sf-regular/48/61dafb/linkedin.png' alt='linkedin'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
   <a href='https://www.instagram.com/sahar_.mohtasham/' title='Instagram'>
-    <img width='32' height='32' src='https://img.icons8.com/ios-filled/50/61dafb/instagram-new--v1.png' alt='instagram'/>
+    <img width='32' height='32' src='https://img.icons8.com/sf-regular/48/61dafb/instagram-new.png' alt='instagram'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
   <a href='https://t.me/SaharMohtashaam'>
-    <img width='32' height='32' src='https://img.icons8.com/ios-filled/50/61dafb/telegram.png' alt='telegram'/>
+    <img width='32' height='32' src='https://img.icons8.com/ios/50/61dafb/telegram-app.png' alt='telegram'/>
   </a>
 </p>
 
 <!-- Skills section -->
-## <img width='20' height='20' src='https://img.icons8.com/pastel-glyph/64/61dafb/code--v1.png' alt='code--v1'/> My Skills
+## <img width='20' height='20' src='https://img.icons8.com/pastel-glyph/50/61dafb/code--v2.png' alt='code--v1'/> My Skills
 <p align='center'>
     <code><img title='Python' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></code>
     <code><img title='Javascript' width='24px' height='24px'src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></code>
