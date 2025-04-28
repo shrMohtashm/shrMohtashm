@@ -47,7 +47,7 @@
     <code><img title='Testing Library' width='24px' height='24px' src='https://testing-library.com/img/octopus-128x128.png'></code>
     <code><img title='Git' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></code>
     <code><img title='GitHub' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'></code>
-    <code><img title='GitLab' width='24px' height='24px' src='https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg'></code>
+    <code><img title='GitLab' width='24px' height='24px' src='https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg'></code>
     <code><img title='Photoshop' width='24px' height='24px' src='https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg'></code>
 </p>
 
