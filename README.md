@@ -14,12 +14,12 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
   <a href='https://www.linkedin.com/in/sahar-mohtasham-917b6125a' title='LinkedIn'>
-    <img width='32' height='32' src='https://img.icons8.com/sf-regular/48/61dafb/linkedin.png' alt='linkedin'/>
+    <img width='32' height='32' src='https://img.icons8.com/ios/50/61dafb/linkedin.png' alt='linkedin'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
   <a href='https://www.instagram.com/sahar_.mohtasham/' title='Instagram'>
-    <img width='32' height='32' src='https://img.icons8.com/sf-regular/48/61dafb/instagram-new.png' alt='instagram'/>
+    <img width='32' height='32' src='https://img.icons8.com/ios/50/61dafb/instagram-new--v1.png' alt='instagram'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
