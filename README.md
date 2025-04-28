@@ -43,7 +43,7 @@
 </p>
 
 <p align='center'>
-    <code><img title='Jest' width='24px' height='24px' src='https://brandfetch.com/jestjs.io?view=library&library=default&collection=logos&asset=idjW7TQn7s&utm_source=https%253A%252F%252Fbrandfetch.com%252Fjestjs.io&utm_medium=copyAction&utm_campaign=brandPageReferral'></code>
+    <code><img title='Jest' width='24px' height='24px' src='https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg'></code>
     <code><img title='Testing Library' width='24px' height='24px' src='https://testing-library.com/img/octopus-128x128.png'></code>
     <code><img title='Git' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></code>
     <code><img title='GitHub' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'></code>
