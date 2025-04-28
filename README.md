@@ -61,3 +61,6 @@
 <p align=center>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=shrMohtashm&theme=react&langs_count=8&layout=compact&hide_border=true&border_radius=10' />
 </p>
+
+<!--Projects section-->
+## <img width='22' height='22' src='https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/61dafb/external-project-management-flatart-icons-outline-flatarticons.png' alt='project-management'/> Projects
