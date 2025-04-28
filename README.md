@@ -74,4 +74,7 @@
     <a href='https://github.com/shrMohtashm/todoListWithRedux'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shrMohtashm&repo=todoListWithRedux&theme=react&hide_border=true&border_radius=10&hide_border=true'>
     </a>
+    <a href='https://github.com/shrMohtashm/shrMohtashm'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shrMohtashm&repo=shrMohtashm&theme=react&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
 </p>
