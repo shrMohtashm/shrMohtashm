@@ -49,13 +49,8 @@
     <code><img title='GitHub' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'></code>
     <code><img title='GitLab' width='24px' height='24px' src='https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg'></code>
     <code><img title='Photoshop' width='24px' height='24px' src='https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg'></code>
+    <code><img title='AJAX' width='24px' height='24px' src='https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg'/></code>
 </p>
-
-<p align='center'>
-    <code><img title='AJAX' width='24px' height='24px' src='https://img.icons8.com/fluency/48/ajax.png'/></code>
-    <code><img title='jQuery' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jquery.svg'></code>
-</p>
-
 
 <!--stats-->
 ## <img width='22' height='22' src='https://img.icons8.com/wired/64/61dafb/statistics.png' alt='external-graph-business-and-finance-prettycons-solid-prettycons-2'/> Stats
