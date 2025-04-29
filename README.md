@@ -8,7 +8,7 @@
 
 <!-- Social media section -->
 <p align='center'>
-  <a href='mailto:smohtasham65@gmail.com' title='Gmail'>
+  <a href='mailto:shr.mohtsham@gmail.com' title='Gmail'>
     <img width='32' height='32' src='https://img.icons8.com/ios/50/61dafb/gmail--v1.png' alt='gmail'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -33,7 +33,7 @@
 <p align='center'>
     <code><img title='JavaScript' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></code>
     <code><img title='React' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></code>
-    <code><img title='Next.js' width='24px' height='24px' src='https://img.icons8.com/nolan/64/nextjs.png'></code>
+    <code><img title='Next.js' width='24px' height='24px' src='https://nextjs.org/favicon.ico'></code>
     <code><img title='Redux' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'></code>
     <code><img title='HTML5' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></code>
     <code><img title='CSS3' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></code>
