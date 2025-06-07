@@ -71,6 +71,9 @@
     <a href='https://github.com/shrMohtashm/e-plantShopping'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shrMohtashm&repo=e-plantShopping&theme=react&hide_border=true&border_radius=10&hide_border=true'>
     </a>
+     <a href='https://github.com/shrMohtashm/connect4-game.git'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shrMohtashm&repo=connect4-game&theme=react&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
     <a href='https://github.com/shrMohtashm/todoListWithRedux'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shrMohtashm&repo=todoListWithRedux&theme=react&hide_border=true&border_radius=10&hide_border=true'>
     </a>
